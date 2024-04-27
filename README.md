@@ -6,7 +6,7 @@ The survey was taken in 2023 with over **126** responses on the use of ChatGPT o
 
 To run the Python programs, follow these steps:
 
-1. Ensure the CSV file is in the same folder.
+1. Ensure the CSV file is in the same folder as the Python files.
 2. Download the necessary libraries:
     - **NumPy**
     - **Matplotlib**
