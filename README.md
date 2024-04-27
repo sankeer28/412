@@ -18,7 +18,7 @@ To conclude, the use of ChatGPT in education has both pros and cons. ChatGPT is 
 
 
 <details>
-<summary>Graphs</summary>
+<summary>Generated Graphs</summary>
 
 <div align="center">
   <img src="https://github.com/sankeer28/412/assets/112449287/f8fd31a1-d27b-4fe4-a0bb-337741371671" alt="image" width="500">
