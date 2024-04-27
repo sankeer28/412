@@ -1,6 +1,6 @@
 # The Future of ChatGPT in Academia
 
-The survey was taken in 2022 with over **126** responses on the use of ChatGPT or similar AI in academia. The technologies used include **Python** and **Matplotlib**.
+The survey was taken in 2023 with over **126** responses on the use of ChatGPT or similar AI in academia. The technologies used include **Python** and **Matplotlib**.
 
 ## Running the Python Files
 
@@ -11,6 +11,11 @@ To run the Python programs, follow these steps:
     - **NumPy**
     - **Matplotlib**
     (Both are included in the ANACONDA library. If not already installed, use `pip3 install matplotlib` or `conda install matplotlib`.)
+
+
+## Conclusion
+To conclude, the use of ChatGPT in education has both pros and cons. ChatGPT is continuously learning from its mistakes and learning. While it has the potential to enhance learning and improve efficiency, it is important to also consider the potential drawbacks and use it responsibly. The future of ChatGPT in academia is promising, but it is important to continue to monitor its use and ensure that it is used in a way that benefits students and education as a whole.
+
 
 <details>
 <summary>Graphs</summary>
@@ -63,5 +68,5 @@ To run the Python programs, follow these steps:
   <img src="https://github.com/sankeer28/412/assets/112449287/5d2c1733-578d-42e2-96dd-c8bd678391ba" alt="image" width="500">
 </div>
 
-<details>
+
 
