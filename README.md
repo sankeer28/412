@@ -1,4 +1,4 @@
-# 412
+# The Future of ChatGPT in Academia
 
 For these programs to run the csv file has to be in the same folder and
 the only libraries that have to be donwloaded are numpy and matplotlib 
